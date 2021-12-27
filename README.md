@@ -2,7 +2,7 @@
 
 ### [Getting started with Google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 
-### [Flowers_5 Mini Dataset](https://drive.google.com/file/d/1_jPB_TWu4Ddiv0IwQEhnRpl18xwFzuNo/view?usp=sharing)
+### [Flowers_5 Mini Dataset](https://drive.google.com/file/d/1690aBJOS4ohTwW5Jtje9JFT_RXLeUNO3/view?usp=sharing)
 
 ### [Datasets repository](https://kwseow.github.io/)
 
